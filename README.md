@@ -32,4 +32,7 @@ The backend should execute the SQL query, retrieve the results, and return them 
 the user.
 The frontend displays the formatted results.
 
+![image](https://github.com/user-attachments/assets/b558d574-f984-4da9-bdb2-a59cdcb8f134)
+
+
 
