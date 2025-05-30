@@ -23,3 +23,13 @@ query3 = text('''INSERT INTO "DatabaseTable10" ("customer_id", "name", "gender",
 query4 = text('''INSERT INTO "DatabaseTable10" ("customer_id", "name", "gender", "location") VALUES (4,  'Nicholas Tesla',   'Male',    'USA');''')
 query5 = text('''INSERT INTO "DatabaseTable10" ("customer_id", "name", "gender", "location") VALUES (5,  'Galileo Galilei',  'Male',    'Italy');''')
 
+3. Functionality
+
+The user inputs a natural language query via the UI.
+The backend (FastAPI) sends the query to the LLM via the Groq endpoint.
+The LLM interprets the query and generates a corresponding SQL query.
+The backend should execute the SQL query, retrieve the results, and return them to
+the user.
+The frontend displays the formatted results.
+
+
