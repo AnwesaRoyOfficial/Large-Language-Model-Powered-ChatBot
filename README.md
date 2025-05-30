@@ -34,5 +34,17 @@ The frontend displays the formatted results.
 
 ![image](https://github.com/user-attachments/assets/b558d574-f984-4da9-bdb2-a59cdcb8f134)
 
+![image](https://github.com/user-attachments/assets/14066f5a-30dc-44f5-ac50-932c0e0a582f)
+
+![image](https://github.com/user-attachments/assets/f396439c-6719-442f-bd76-dc1823698693)
+
+![image](https://github.com/user-attachments/assets/837b6031-54cc-4e1a-ae2e-defb64073a0c)
+
+![image](https://github.com/user-attachments/assets/6d6fbd74-191c-49ed-8e47-5f925ae68b22)
+
+
+
+
+
 
 
