@@ -32,6 +32,12 @@ The backend should execute the SQL query, retrieve the results, and return them 
 the user.
 The frontend displays the formatted results.
 
+4. Required Steps
+
+python createdatabase.py
+python app.py
+python -m streamlit run client.py
+
 ![image](https://github.com/user-attachments/assets/b558d574-f984-4da9-bdb2-a59cdcb8f134)
 
 ![image](https://github.com/user-attachments/assets/14066f5a-30dc-44f5-ac50-932c0e0a582f)
