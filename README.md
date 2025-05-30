@@ -1,16 +1,25 @@
 # Problem Statement: LLM-Powered Chatbot with FastAPI and SQL Integration
 
 1. Tech Stack
+   
 ● Backend: FastAPI
+
 ● Frontend: Streamlit
+
 ● Database: PostgreSQL
+
 ● LLM Endpoint: Groq (free tier) using llama-3.1-8b-instant
 
-2. Database Schema
-You must create a basic customer database with the following fields:
+3. Database Schema
+   
+Customer database with the following fields:
+
 ● customer_id (Primary Key)
+
 ● name (Text)
+
 ● gender (Text)
+
 ● location (Text)
 
 The database name is "TheDatabase15"
